@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Global_R">#ff5064</color>
+    <color name="Global_Y">#FFffc850</color>
+    <color name="Global_WT">#FFFbFbFb</color>
+    <color name="Global_Bg">#FFf4f4f5</color>
+    <color name="Global_BL">#212121</color>
+    <color name="Global_fff">#FFFFFFFF</color>
+    <color name="Global_B">#5974aa</color>
+    <color name="Global_G">#FF3CB478</color>
+    <color name="Global_O">#FFFF8c78</color>
+    <color name="Global_P1">#FF505A78</color>
+    <color name="Global_P2">#FF41465A</color>
+    <color name="Global_P">#FFa096e6</color>
+
+
+    <color name="Global_BL1">#FFE9E9E9</color>
+    <color name="Global_BL2">#FFD3D3D3</color>
+    <color name="Global_BL3">#FFBCBCBC</color>
+    <color name="Global_BL5">#FF909090</color>
+    <color name="Global_BL7">#FF646464</color>
+    <color name="Global_BL9">#FF373737</color>
+
+    <color name="Global_PG">#505a78</color>
+
+
+    <!-- 全局字体颜色定义 -->
+    <color name="Global_h4">@color/Global_BL5</color>
+    <color name="Global_h3">@color/Global_BL9</color>
+    <color name="Global_h2">@color/Global_WT</color>
+    <color name="Global_h1">@color/Global_BL9</color>
+    <color name="Global_p1">@color/Global_BL9</color>
+    <color name="Global_p2">@color/Global_BL7</color>
+    <color name="Global_c">@color/Global_BL3</color>
+    <color name="Global_m">@color/Global_BL7</color>
+    <color name="Global_b1">@color/Global_WT</color>
+    <color name="Global_b2">@color/Global_BL9</color>
+    <color name="Global_t">@color/Global_BL5</color>
+
+    <!-- 局部 .....................................................-->
+
+    <color name="transparent">#00000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="ling_qian">#ff7373</color>
+    <color name="deal">#ffab77</color>
+    <color name="qian_bao">#ffd27a</color>
+    <color name="direct_invest">#6FA3EB</color>
+
+
+    <!-- ListView 点击时的背景颜色 -->
+    <color name="listItemPressBgColor">#EE796C</color>
+
+    <!-- 页面背景颜色 -->
+    <color name="activityBgColor">#F6F9FD</color>
+
+    <!-- 页面前景颜色 -->
+    <color name="activityForegroundColor">@color/white</color>
+
+    <!-- 文本的颜色一 -->
+    <color name="textColorOne">#7f333333</color>
+
+    <!-- 文本的颜色二 -->
+    <color name="textColorTwo">#666666</color>
+
+    <!-- 文本的颜色三 -->
+    <color name="textColorThree">#333333</color>
+
+    <!-- 默认的 ListDialog 点击时的背景颜色 -->
+    <color name="listDialgItemPressBgColor">#EE796C</color>
+
+    <!-- 输入框 颜色 -->
+    <color name="input_hint_color">@color/Global_BL3</color>
+    <color name="input_text_color">@color/Global_BL5</color>
+    <color name="input_focus_text_color">@color/Global_p2</color>
+
+    <!-- 输入框 颜色2 -->
+    <color name="input_2_hint_color">@color/Global_c</color>
+    <color name="input_2_text_color">@color/Global_BL5</color>
+    <color name="input_2_focus_text_color">@color/Global_p2</color>
+
+    <!-- 协议页面 -->
+    <color name="treaty_paragraphHeadings_textColor">#d43532</color>
+    <color name="treaty_textColor">@color/Global_BL7</color>
+
+    <!-- 投资页面 -->
+    <color name="invest_tabTextColor_normal">#89212121</color>
+    <color name="invest_tabTextColor_press">#e51c23</color>
+
+    <!-- 设置页面按钮按下的颜色 -->
+    <color name="settingTapPage_btn_pressColor">#fff4f4f4</color>
+
+    <!-- CirclePageIndicator -->
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+
+    <!-- btn_02_bg -->
+    <color name="btn_02_bg_press">#fff2f2f2</color>
+    <color name="btn_10_bg_press">#ffFF7373</color>
+
+    <color name="titile_popup_press">#fff4f4f4</color>
+
+    <color name="askDialog_btn02_pressColor">#ffffeded</color>
+    <color name="btn_12_pressColor">#ffF4F4F4</color>
+    <color name="listSelectorPress">#fff4f4f4</color>
+
+    <color name="btn_13_pressColor">#ffFF8484</color>
+    <color name="btn_13_Color">#ffFF6161</color>
+
+    <color name="btn_14_pressColor">#ffFFBCA0</color>
+    <color name="btn_14_Color">#ffFFA985</color>
+
+    <color name="btn_title_left_img_pressColor">#ffdedede</color>
+
+    <color name="btn_15_pressColor">#fff4f4f4</color>
+
+    <color name="line_h_01">#D7D9E0</color>
+    <color name="line_h_01_opacity69">#B0D7D9E0</color>
+    <color name="line_h_02">#FFd7d7d7</color>
+    <color name="line_h_03">#e3e4e9</color>
+    <color name="line_v_01">#FFd7d7d7</color>
+    <color name="line_h_04">#FFB0B5C2</color>
+
+    <color name="balance_reset">#f9b33b</color>
+
+    <!-- 我的特权本金 -->
+    <color name="textColorMyTaste01">#ff8f6f</color>
+    <color name="textColorMyTaste02">#ff8f8f</color>
+
+    <color name="sold_out">#d9d9d9</color>
+    <color name="trail">#ff7383</color>
+    <color name="progress">#7fffffff</color>
+    <color name="notice_text">#b0212121</color>
+    <!--70%-->
+    <color name="tou_zi_b">#b3212121</color>
+    <color name="select_bank">#80000000</color>
+    <color name="tou_zi_s">#7f212121</color>
+    <!--30$-->
+    <color name="Global_BL_opacity30">#48212121</color>
+    <!--10%-->
+    <color name="text_black_ten">#1A212121</color>
+    <!-- 10 号说明文字的颜色-->
+    <color name="text_color_ten">#b38A90A4</color>
+    <color name="dialog_title">#191919</color>
+    <color name="verification_pwd_bg">#F6F9FD</color>
+    <color name="verification_pwd_text">#8A90A4</color>
+    <color name="set_pwd_text">#303652</color>
+    <color name="set_pwd_line">#E7E8EC</color>
+    <color name="lingqian_order">#23C089</color>
+    <color name="text_edit">#4cFFFFFF</color>
+    <!--白色30的透明度-->
+    <color name="text_white_thirty">#4DFFFFFF</color>
+    <!--白色50的透明度-->
+    <color name="text_white_fifty">#80FFFFFF</color>
+    <!--白色70的透明度-->
+    <color name="text_white_seventy">#B3FFFFFF</color>
+    <!--白色90的透明度-->
+    <color name="text_white_nineTy">#E6FFFFFF</color>
+    <color name="title_bg">#E6FAFBFE</color>
+    <!--黑色30%的透明度-->
+    <color name="text_01">#4D333333</color>
+    <!--黑色50%的透明度-->
+    <color name="text_02">#80333333</color>
+    <!--黑色70%的透明度-->
+    <color name="text_03">#B3333333</color>
+    <!--黑色80%的透明度-->
+    <color name="text_04">#CC333333</color>
+    <!--黑色90%的透明度-->
+    <color name="text_05">#E6333333</color>
+    <!--黑色10%的透明度-->
+    <color name="text_06">#1A333333</color>
+
+    <!-- rgb 75 135 220-->
+    <color name="forget_pw">#4B87DC</color>
+    <!--  252 54 82-->
+    <color name="text_red">#FC3652</color>
+    <!--  rgb 38 195 255-->
+    <color name="text_blue">#26C3FF</color>
+    <!--  rgb 80 90 120-->
+    <color name="line_retangle_bg">#505A78</color>
+    <!--  rgb 63 71 101-->
+    <color name="reference_price">#505A78</color>
+    <!--  rgb 255 216 141-->
+    <color name="jia_xi">#FFD88D</color>
+    <!--  rgb 255 155 155-->
+    <color name="my_lingqian">#FF9B9B</color>
+    <!--  rgb 255 155 155-->
+    <color name="shake_text">#FED771</color>
+    <color name="main_two_bg">#F6F9FD</color>
+    <color name="main_two_bg_opacity50">#80F6F9FD</color>
+    <!--rgb 240 177 75-->
+    <color name="yellow">#F0B14B</color>
+    <color name="gesture">#FA5F5A</color>
+
+    <color name="blue">#3f4765</color>
+    <color name="darkGreyBlue">#303652</color>
+    <color name="cornflowerBlue">#3c71d3</color>
+    <color name="black_opacity69">#B0191919</color>
+    <color name="green">#1ec89b</color>
+    <color name="Global_BL_opacity90">#E4212121</color>
+    <color name="Global_BL_opacity69">#B0212121</color>
+    <color name="Global_BL_opacity50">#80212121</color>
+    <color name="direct_invest_bg">#6FA3EB</color>
+    <color name="straight">#6fa3eb</color>
+    <color name="green_02">#31B366</color>
+    <color name="green_03">#EAF9F0</color>
+    <color name="green_03_opacity50">#80EAF9F0</color>
+    <color name="red_02">#FEEFEE</color>
+    <color name="red_02_opacity50">#80FEEFEE</color>
+    <color name="deal_text">#DAE0EC</color>
+    <color name="shadow_background">#B3444444</color>
+    <color name="invest_color">#B38A90A4</color>
+
+    <color name="columnar_old">#FFB9C1</color>
+    <color name="columnar_new">#FF6274</color>
+
+    <color name="trail_edit_text">#4D5974AA</color>
+    <color name="trail_edit_text2">#4DFF7373</color>
+    <color name="fraction">#313031</color>
+    <color name="tab_for">#B38A90A4</color>
+    <color name="tab_for_text">#E6505A78</color>
+    <color name="release_bank_card">#007AFF</color>
+    <color name="buy_dingcun_dialog_title">#41465A</color>
+    <color name="bank_card_information_prompt_text02_color">#b3ff5064</color>
+    <color name="keyboard">#D1D5DB</color>
+    <color name="current_loan">#909090</color>
+    <color name="current_loan_text">#383838</color>
+    <color name="loan_detail_bg">#D3D3D3</color>
+</resources>
